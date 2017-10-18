@@ -1,4 +1,4 @@
-// Program to count all squares less then n.
+// Program to print all squares less then n.
 
 #include <iostream>
 
